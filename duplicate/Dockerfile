@@ -1,0 +1,14 @@
+Dockerfile components
+---------------------
+FROM
+RUN
+CMD
+ENTRYPOINT
+ENV
+ADD
+COPY
+WORKDIR
+LABEL
+ARG
+EXPOSE
+VOLUME
